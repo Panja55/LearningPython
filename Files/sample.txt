@@ -1,0 +1,2 @@
+This is a ample text file.
+It contains multiple lines.
